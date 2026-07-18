@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-A JavaScript FullStack developer specializing in ReactJS.
+JavaScript FullStack developer specializing in ReactJS.
 Recent work on NextJS
 
 primary skillset: JS, HTML, CSS
+
 
 <!--
 **NT16/NT16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
