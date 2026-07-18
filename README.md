@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-JavaScript FullStack developer specializing in ReactJS.
+JavaScript FullStack developer specializing in ReactJS.<br>
 Recent work on NextJS
 
-primary skillset: JS, HTML, CSS
+primary skillset: JS, HTML, CSS <br>
 Others: NodeJS, ExpressJS, MongoDB
 
 
